@@ -10,7 +10,7 @@ import static com.example.schmi.customlist_arnaudschmidt.R.id.textView_nom;
 
 public class ChoiceCode extends AppCompatActivity {
 
-    String[] DETAIL = {"Sport collectif", "Sport Collectif", "Sport Individuel", "Sport Collectif"};
+    String[] DETAIL = {"La balle est grosse.", "Un sport de bonhommes.", "Pour avoir un seul gros bras.", "C'est comme du hand mais dans l'eau."};
 
     private TextView detail;
 
